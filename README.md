@@ -64,10 +64,6 @@ Contribuições são bem-vindas! Para contribuir:
 4. Envie para o repositório remoto: `git push origin minha-feature`.
 5. Abra um pull request.
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
 ## Autor
 
 Desenvolvido por **Fernando Hali Santos Andrade**.
